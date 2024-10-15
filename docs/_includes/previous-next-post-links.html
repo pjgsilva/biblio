@@ -1,7 +1,7 @@
 <div class="post-nav">
   <div>
     {% if page.previous.url %}
-      <a href="{{page.previous.url}}" class="pagination-previous btn">
+      <a href="{{page.previous.url | prepend: site.baseurl}}" class="pagination-previous btn">
         &lang;&nbsp;Anterior
         <!-- <span class="unsighted">Previous post:</span>
         <span aria-hidden="true">&laquo;</span>
@@ -19,7 +19,7 @@
     {% else %}
        {% assign next_post_spit = "" %}
     {% endif %}-->
-    <a href="{{page.next.url}}" class="pagination-next btn">
+    <a href="{{page.next.url | prepend: site.baseurl}}" class="pagination-next btn">
         Seguinte&nbsp;&rang;
       <!--<span class="unsighted">Next post:</span>
       {{next_post_cape}}
