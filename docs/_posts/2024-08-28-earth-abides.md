@@ -95,4 +95,4 @@ Seja qual for o futuro que nos é reservado, o título diz tudo, A Terra permane
 		</span>
 	</span>	
 </span>
-</span>
+</span> 
