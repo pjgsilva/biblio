@@ -1,0 +1,24 @@
+.red-text {
+  color: red;
+}
+
+.gray-text {
+  color: grey;
+}
+
+.transcript {
+  color: darkgray;
+  font-style: oblique;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.transcript-inline {
+  color: darkgray;
+  font-style: oblique;
+}
+
+.standout {
+  color: gray;
+  margin-left: 5px;
+}
