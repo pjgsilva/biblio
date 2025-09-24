@@ -1,11 +1,14 @@
+- title: Home
+  url: cogito:/
+
 - title: Bibliofilia
-  url: https://pjgsilva.github.io/biblio
+  url: /
 
 - title: Santiago
-  url: https://pjgsilva.github.io/santiago.html
+  url: cogito:/santiago.html
 
 - title: Sobre
-  url: https://pjgsilva.github.io/about.html
+  url: /about.html
 
 #- title: Designer
 #  url: http://patdryburgh.com
